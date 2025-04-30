@@ -1,11 +1,10 @@
 numpy
 matplotlib
 pandas
-scikit-learn
+sklearn
+xgboost
 seaborn
-tensorflow
-keras
+math
 scipy
-torch
-torchvision
-transformers
+gradio
+joblib
